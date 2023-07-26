@@ -1,4 +1,4 @@
-# Installer et configurer NTP Server (NTPsec) sur DEBIAN 12.
+## Installer et configurer NTP Server (NTPsec) sur DEBIAN 12.
 
 Installez et configurer (NTPsec).
 
