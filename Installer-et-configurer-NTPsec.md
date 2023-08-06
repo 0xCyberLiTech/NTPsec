@@ -40,7 +40,7 @@ Vous pouvez restreindre les clients (les ordinateurs autorisés à synchroniser 
 ```
 restrict default kod notrap nomodify nopeer noquery
 restrict 127.0.0.1 nomodify
-restrict ::1
+restrict ::1 nomodify
 restrict 10.8.0.0 mask 255.255.255.0 nomodify notrap
 restrict 192.168.1.0 mask 255.255.255.0 nomodify notrap
 ```
