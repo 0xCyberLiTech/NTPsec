@@ -84,3 +84,14 @@ Comme la ligne « restrict default » (restreindre par défaut) ci-dessus prévi
 restrict 127.0.0.1
 restrict ::1
 ```
+Info complémentaire sur les restrictions de contrôle d'accès par défaut:
+
+La ligne suivante définit les restrictions de contrôle d'accès par défaut :
+```
+restrict default nomodify notrap nopeer noquery
+```
+Les options nomodify empêchent tout changement de configuration.
+
+- L'option notrap empêche les interruptions de protocole de messages de contrôle ntpdc.
+- L'option nopeer empêche la formation d'association de pairs.
+- L'option noquery empêche de répondre aux requêtes ntpq et ntpdc, mais n'empêche pas de répondre aux requêtes de temps.
