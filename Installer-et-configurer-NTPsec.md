@@ -1,5 +1,11 @@
 ## Installer et configurer NTP Server (NTPsec) sur DEBIAN 12.
 
+Comprendre le fichier de configuration ntpd :
+
+Le démon ntpd lit le fichier de configuration au démarrage système ou lorsque le service est redémarré. L'emplacement par défaut du fichier est /etc/ntp/ntp.conf et le fichier peut être affiché en saisissant la commande suivante :
+```
+less /etc/ntpsec/ntp.conf
+```
 Installez et configurer (NTPsec).
 
 NTP utilise le port 123 en UDP.
@@ -95,3 +101,7 @@ Les options nomodify empêchent tout changement de configuration.
 - L'option notrap empêche les interruptions de protocole de messages de contrôle ntpdc.
 - L'option nopeer empêche la formation d'association de pairs.
 - L'option noquery empêche de répondre aux requêtes ntpq et ntpdc, mais n'empêche pas de répondre aux requêtes de temps.
+
+Note :
+
+Lorsque le programme client de DHCP, dhclient reçoit une liste de serveurs NTP du serveur DHCP, il les ajoute à ntp.conf et redémarre le service. Pour désactiver cette fonctionnalité, veuillez ajouter PEERNTP=no à /etc/sysconfig/network.
