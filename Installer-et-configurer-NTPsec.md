@@ -102,6 +102,3 @@ Les options nomodify empêchent tout changement de configuration.
 - L'option nopeer empêche la formation d'association de pairs.
 - L'option noquery empêche de répondre aux requêtes ntpq et ntpdc, mais n'empêche pas de répondre aux requêtes de temps.
 
-Note :
-
-Lorsque le programme client de DHCP, dhclient reçoit une liste de serveurs NTP du serveur DHCP, il les ajoute à ntp.conf et redémarre le service. Pour désactiver cette fonctionnalité, veuillez ajouter PEERNTP=no à /etc/sysconfig/network.
