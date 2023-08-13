@@ -65,7 +65,12 @@ ntpq -p
  2.fr.pool.ntp.org                       .POOL.          16 p    -  256    0   0.0000   0.0000   0.0001
  3.fr.pool.ntp.org                       .POOL.          16 p    -  256    0   0.0000   0.0000   0.0001
 ```
-Un moyen simple de voir s'il y a un broadcast NTP dans votre réseau local (généralement le router):
+Un moyen simple de voir s'il y a un broadcast NTP dans votre réseau local (généralement le router) :
+
+N'oublier pas d'installer le paquet tcpdump :
+```
+apt install tcpdump -y
+```
 ```
 sudo tcpdump -n "broadcast or multicast" | grep NTP
 ```
