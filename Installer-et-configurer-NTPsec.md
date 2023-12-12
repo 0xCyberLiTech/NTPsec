@@ -2,8 +2,9 @@
 
 ## NTPsec remet les pendules d’Internet à l’heure de la sécurité.
 
-Le protocole NTP, maître du temps de l’Internet, est vulnérable.
-## Un spécialiste de l’Open Source s’est attelé à son successeur NTPSec.
+Le protocole NTP, maître du temps de l’Internet, est devenu vulnérable.
+
+Un spécialiste de l’Open Source s’est attelé à son successeur NTPSec.
 
 Retour vers le futur, la suite sur Internet ? Des chercheurs mettent en évidence les failles de NTP, le protocole de synchronisation des horloges d’Internet. Vulnérabilités qui ouvrent la porte à des attaques par DDoS, mais aussi à la mise en danger des communications chiffrées.
 
