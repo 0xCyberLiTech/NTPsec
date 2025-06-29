@@ -116,3 +116,12 @@ Les options nomodify empêchent tout changement de configuration.
 - L'option nopeer empêche la formation d'association de pairs.
 - L'option noquery empêche de répondre aux requêtes ntpq et ntpdc, mais n'empêche pas de répondre aux requêtes de temps.
 
+---
+
+Merci pour ta visite — et bon déploiement Debian ! 💻🚀
+
+---
+
+<p align="center">
+  🔒 Un guide proposé par <a href="https://github.com/0xCyberLiTech">0xCyberLiTech</a> • Pour une cybersécurité accessible à tous.
+</p>
