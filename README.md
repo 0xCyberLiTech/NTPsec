@@ -38,18 +38,8 @@
 
 ### 🎯 **Objectif de ce dépôt GitHub.**
 
-> Ce dépôt GitHub, appartenant à **0xCyberLiTech**, se veut être un **laboratoire numérique** pour la documentation de l'apprentissage et de l'expérimentation,  
-> principalement dans les domaines de **Linux** et de la **cybersécurité**.  
-> Il s'adresse aux passionnés, étudiants et professionnels désireux de :
-
-- Mieux comprendre les fondamentaux et les bonnes pratiques de la cybersécurité.
-- Se familiariser avec la supervision (Zabbix, Nagios).
-- Maîtriser la pile **LAMP** pour le déploiement web.
-- Utiliser **Docker** pour conteneuriser ses services.
-- Découvrir **OpenVAS** pour l’analyse de vulnérabilités.
-- Approfondir les concepts de **DNS** et sa configuration sécurisée.
-
-> 🔎 Les guides sont axés sur l'**apprentissage par la pratique**, en mettant en avant l'aspect **pédagogique** et concret.
+> Ce dépôt a pour vocation de centraliser un ensemble de notions clés concernant NTPsec (Network Time Protocol Security).
+> Il s’adresse aux passionnés, étudiants et professionnels souhaitant mieux comprendre les mécanismes de synchronisation temporelle sécurisée sur les systèmes informatiques, apprendre à installer, configurer et administrer NTPsec, ainsi qu’à se familiariser avec les bonnes pratiques et outils permettant d’assurer une précision optimale et une protection renforcée contre les attaques visant le protocole NTP.
 
 ---
 
