@@ -2,9 +2,11 @@
 <div align="center">
   
 <br></br>
+
 <a href="https://github.com/0xCyberLiTech">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=50&duration=6000&pause=1000000000&color=FF0048&center=true&vCenter=true&width=1100&lines=%3ENTPsec_" alt="Titre dynamique NTPsec_" />
 </a>
+
 <br></br>
 
 <p align="center">
@@ -25,13 +27,11 @@
 
 > Bienvenue dans mon **laboratoire numérique personnel** dédié à l’apprentissage et à la vulgarisation de la cybersécurité.  
 > Passionné par **Linux**, la **cryptographie** et les **systèmes sécurisés**, je partage ici mes notes, expérimentations et fiches pratiques.  
->  
 > 🎯 **Objectif :** proposer un contenu clair, structuré et accessible pour étudiants, curieux et professionnels de l’IT.  
-> 🔗 [Mon GitHub principal](https://github.com/0xCyberLiTech)
 
 <p align="center">
   <a href="https://github.com/0xCyberLiTech" target="_blank" rel="noopener">
-    <img src="https://skillicons.dev/icons?i=linux,debian,bash,docker,nginx,git,vim" alt="Skills" alt="Logo techno" width="300">
+    <img src="https://skillicons.dev/icons?i=linux,debian,bash,docker,nginx,git,vim,python,markdown" alt="Skills" width="420">
   </a>
 </p>
 
