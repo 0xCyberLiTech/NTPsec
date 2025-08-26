@@ -25,10 +25,7 @@
   
   <br></br>
   
-  <p align="center">
-    <em>Un dépôt pédagogique autour du monde linux DEBIAN.</em><br>
-    <b>📘 Apprentissage – 🔐 Sécurité – 🧠 Compréhension</b>
-  </p>
+  <h2>Laboratoire numérique pour la cybersécurité, Linux & IT</h2>
   
   [![🌐 Portfolio](https://img.shields.io/badge/Portfolio-0xCyberLiTech-181717?logo=github&style=flat-square)](https://0xcyberlitech.github.io/)
   [![🔗 Profil GitHub](https://img.shields.io/badge/Profil-GitHub-181717?logo=github&style=flat-square)](https://github.com/0xCyberLiTech)
