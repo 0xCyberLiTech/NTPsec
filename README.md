@@ -2,6 +2,8 @@
   
   <br></br>
   
+  <h2>Laboratoire numérique pour la cybersécurité, Linux & IT</h2>
+
   <p align="center">
     <a href="https://0xcyberlitech.github.io/">
       <img src="https://img.shields.io/badge/Portfolio-0xCyberLiTech-181717?logo=github&style=flat-square" alt="Portfolio" />
@@ -22,10 +24,6 @@
   <a href="https://github.com/0xCyberLiTech">
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=50&duration=6000&pause=1000000000&color=FF0048&center=true&vCenter=true&width=1100&lines=%3ENTPsec_" alt="Titre dynamique NTPsec_" />
   </a>
-  
-  <br></br>
-  
-  <h2>Laboratoire numérique pour la cybersécurité, Linux & IT</h2>
 
 </div>
 
