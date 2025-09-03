@@ -32,7 +32,7 @@
 </div>
 
 <!--
-Optimisation SEO : 0xCyberLiTech, astuces, cybersécurité, Linux, sécurité informatique, tutoriels, guides, administration système, scripts Bash, Debian, ntpsec, ressources techniques, étudiants, professionnels, formation, réseau, IT, bonnes pratiques, passionnés.
+Optimisation SEO : mots-clés NTPsec, 0xCyberLiTech, Linux, sécurité informatique, tutoriels, guides, administration système, scripts Bash, Debian, ntpsec, ressources techniques, étudiants, professionnels, formation, réseau, IT, bonnes pratiques, passionnés.
 -->
 
 <div align="center">
