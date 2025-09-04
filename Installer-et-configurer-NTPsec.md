@@ -28,12 +28,7 @@
       <img src="https://img.shields.io/badge/Dépôts-publics-blue?style=flat-square" alt="Dépôts publics" />
     </a>
 
-
 </div>
-
-<!--
-Optimisation SEO : astuces, cybersécurité, Linux, sécurité informatique, tutoriels, guides, administration système, scripts Bash, Debian, ntpsec, ressources techniques, étudiants, professionnels, formation, réseau, IT, bonnes pratiques, passionnés.
--->
 
 <div align="center">
   <img src="https://img.icons8.com/fluency/96/000000/cyber-security.png" alt="CyberSec" width="80"/>
@@ -204,3 +199,4 @@ restrict ::1
 <p align="center">
   <b>🔒 Un guide proposé par <a href="https://github.com/0xCyberLiTech">0xCyberLiTech</a> • Pour des tutoriels accessibles à tous. 🔒</b>
 </p>
+
