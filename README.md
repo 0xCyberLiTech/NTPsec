@@ -55,6 +55,7 @@ ntptime
 - **Niveau 2 — Repères Officiels (Ports IANA, Fichiers Debian &amp; Commandes de Validation) :** **Ports IANA :** `UDP 123` (NTP) · `TCP 4460` (NTS-KE — *Network Time Security*) &nbsp;|&nbsp; **Fichier Debian :** `/etc/ntpsec/ntp.conf` &nbsp;|&nbsp; **Validation officielle :** `ntpq -p` et `timedatectl timesync-status`.
 - **Niveau 3 — Diagnostic d'Incidents &amp; Ingénierie Avancée :** **Diagnostic & Architecture :** Dans la table `ntpq -p`, le préfixe **`*`** identifie la source horaire maîtresse active (*sys.peer*), le préfixe **`+`** indique les serveurs candidats de secours, et une valeur `reach` bloquée à `0` signale un filtrage du port `UDP 123`. Le niveau de **Stratum** indique la distance par rapport à l'horloge atomique ou GPS de référence (Stratum 0).
 - **Sources de Vérité Officielles Éditeurs &amp; Standards :** [Documentation Officielle NTPsec](https://docs.ntpsec.org/latest/) &nbsp;·&nbsp; [RFC 5905 (NTPv4) & RFC 8915 (NTS)](https://datatracker.ietf.org/doc/html/rfc8915)
+- **Livres Blancs &amp; 67 Podcasts Audio R&amp;D :** [Portail 0xCyberLiTech](https://0xcyberlitech.com/) &nbsp;·&nbsp; [Livre Blanc SOC Cockpit v5.5](https://0xcyberlitech.com/soc-rd.html) &nbsp;·&nbsp; [Livre Blanc JARVIS Mark-VII](https://0xcyberlitech.com/jarvis-rd.html) &nbsp;·&nbsp; [Blueprint Logiciel &amp; Matériel RTX 5080](https://0xcyberlitech.com/blueprint-jarvis.html)
 
 </details>
 <!-- CIEL-PEDAGOGY-END -->
